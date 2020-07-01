@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_padding">10dp</dimen>
+    <dimen name="register_margin_padding">20dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_login">24dp</dimen>
+    <dimen name="margin_login_top">270dp</dimen>
+    <dimen name="margin_draweble_padding">16dp</dimen>
+    <dimen name="margin_login_button_top">32dp</dimen>
+    <dimen name="margin_login_text_top">6dp</dimen>
+    <dimen name="margin_map">5dp</dimen>
+
+</resources>
